@@ -7,6 +7,7 @@
 ---
 
 ### 📸 效果示例  
+PS. 由于这里使用的是postimage图床链接，图片被缩小至 1280px，会看起来不够高清，但sd生成的效果图实际很清晰，因为该workflows中有高清放大的refiner模块（使用RTX 5090生成）
 
 **输入基底图：**  
 [![1.jpg](https://i.postimg.cc/pTGnzjK3/1.jpg)](https://postimg.cc/zbhB1Vtk)  
